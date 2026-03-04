@@ -17,7 +17,7 @@ repot  : [telegram](https://t.me/yuroshub)
 | uas      | 60%          |
 
 
-# penugasan
+## penugasan
 
 ## konseptual
 
@@ -37,7 +37,7 @@ repot  : [telegram](https://t.me/yuroshub)
 | 3        | source docs  | 9       | pribadi  |
 
 
-# penilian
+# kriteria penilaian
 
 ## konseptual
 | no       | tipe                                               | perstase   |  
@@ -49,7 +49,6 @@ repot  : [telegram](https://t.me/yuroshub)
 | 6        |  perencanaan penugasan pada github project           | 15%        |
 | 7        |  konsistensi tracking penugasan pada github project  | 15%        |
 | 8        |  komunikasi dan penyelesaian masalah pada card task  | 15%        |
-
 
 
 ## praktek
